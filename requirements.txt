@@ -1,0 +1,10 @@
+azure-cosmosdb-table==1.0.5
+azure-storage-blob==2.0.1
+azure-storage-common==2.0.0
+azure-common
+azure-mgmt-storage
+apscheduler==3.6.1
+dnspython==1.16.0
+pymongo==3.8.0
+sendgrid==6.1.0
+pika==1.0.1
